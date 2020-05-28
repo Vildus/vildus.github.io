@@ -47,7 +47,6 @@ hr {
   width: 100%;
   max-width: 760px;
   border: 1px solid #43526e;
-  float: left;
   margin-bottom: 1rem
 }
 
@@ -184,9 +183,6 @@ ul li {
   #left-column {
     order: 1;
     margin-right: 2rem;
-  }
-  #left-column .content {
-    margin-top: 2rem;
   }
   #left-column ul li {
     margin-bottom: 1rem;

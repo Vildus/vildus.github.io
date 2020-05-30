@@ -2,5 +2,5 @@
 
 ## TOC
 
-- [My CV](./cv/)
+- [My CV](https://vilderoxan.github.io/cv/)
 
